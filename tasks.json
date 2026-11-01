@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Complete Python Project",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "title": "Practice C Programming",
+        "priority": "Medium",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "title": "Study Java OOP",
+        "priority": "High",
+        "status": "Pending"
+    }
+]
